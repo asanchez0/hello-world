@@ -1,3 +1,3 @@
 # Práctica 1: Web scraping
-Repositorio para tener los datos mejor organizados
+Descripción
 Siguiendo las indicaciones del tutorial 
