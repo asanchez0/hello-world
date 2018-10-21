@@ -4,5 +4,5 @@ Esta práctica es la primera que figura en el programa de la asignatura <i>Tipol
 ## Miembros del equipo
 La práctica ha sido realizada de forma individual por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 ## Ficheros del código fuente
-- <b>R-code/articuloNYTanalisis.R</b> y <b>R-code/articuloNYTanalisis.Rmd</b>: contienen el código que genera el dataset en lenguaje R. Se recomienda tener instalado el IDE para R <b>RStudio</b> para la ejecución del fichero <b>Rmd</>.
-- <b>Python-code/articuloNYTanalisis.py</b>: contiene el código que genera el dataset y resuelve el ejercicio, pero esta vez en lenguaje Python. Se recomienda tener instalado un IDE para Python como <b>Anaconda</>, <b>IPython notebooks</b> o <b>Canopy</b>.
+- <b>R-code/articuloNYTanalisis.R</b> y <b>R-code/articuloNYTanalisis.Rmd</b>: contienen el código que genera el dataset en lenguaje R. Se recomienda tener instalado el IDE para R <b>RStudio</b> para la ejecución del fichero <b>Rmd</b>.
+- <b>Python-code/articuloNYTanalisis.py</b>: contiene el código que genera el dataset y resuelve el ejercicio, pero esta vez en lenguaje Python. Se recomienda tener instalado un IDE para Python como <b>Anaconda</b> o <b>Canopy</b>.
