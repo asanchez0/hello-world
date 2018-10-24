@@ -1,6 +1,9 @@
 # Práctica 1: Web scraping
 ## Descripción
 Esta práctica es la primera que figura en el programa de la asignatura <i>Tipología y ciclo de vida de los datos</i>, correspondiente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya (UOC). En ella, se aplican técnicas de web scraping tanto en lenguaje R como Python para extraer datos de interés de la página web <i><b>Trump's lies</b></i> (un artículo del diario New York Times) y obtener así un dataset en formato CSV con las variables de interés.
+
+
+
 ## Miembros del equipo
 La práctica ha sido realizada de forma individual por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 ## Ficheros del código fuente
