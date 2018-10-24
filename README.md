@@ -17,3 +17,5 @@ Scraping the Data.
 4.	Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). Automated Data Collection with R: A Practical Guide to   Web Scraping and Text Mining. John Wiley & Sons. 
 5.	Tutorial de Github https://guides.github.com/activities/hello-world.  
 6.	https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">licencia de Creative Commons Reconocimiento 4.0 Internacional</a>.
