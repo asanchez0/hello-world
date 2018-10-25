@@ -8,7 +8,7 @@ Esta práctica es la primera que figura en el programa de la asignatura <i>Tipol
 La práctica ha sido realizada de forma individual por el alumno <b>ANTONIO SÁNCHEZ NAVARRO</b>.
 ## Ficheros del código fuente
 - <b>R-code/articuloNYTanalisis.R</b> y <b>R-code/articuloNYTanalisis.Rmd</b>: contienen el código que genera el dataset en lenguaje R. Se recomienda tener instalado el IDE para R <b>RStudio</b> para la ejecución del fichero <b>Rmd</b>.
-- <b>Python-code/articuloNYTanalisis.py</b>: contiene el código que genera el dataset y resuelve el ejercicio, pero esta vez en lenguaje Python. Se recomienda tener instalado un IDE para Python como <b>Anaconda</b> o el entorno de análisis y desarrollo <b>Enthought Canopy</b>. En cualquier caso, desde línea de comandos y en el directorio donde se sitúe, se puede ejecutar: <i>articuloNYTanalisis</i>.
+- <b>Python-code/articuloNYTanalisis.py</b>: contiene el código que genera el dataset y resuelve el ejercicio, pero esta vez en lenguaje Python. Se recomienda tener instalado un IDE para Python como <b>Anaconda</b> o el entorno de análisis y desarrollo <b>Enthought Canopy</b>. En cualquier caso, desde línea de comandos y en el directorio donde se sitúe, se puede ejecutar: <i>articuloNYTanalisis.py</i>.
 ## Recursos
 1.	Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC. 
 2.	Masip, D. El lenguaje Python. Editorial UOC. 
